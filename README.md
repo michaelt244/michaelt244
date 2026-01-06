@@ -33,5 +33,5 @@ I focus on **backend systems, applied machine learning, and scalable infrastruct
 ### 📫 Connect With Me
 
 - **GitHub:** https://github.com/michaelt244  
-- **LinkedIn:** https://linkedin.com/in/YOUR_LINK  
-- **Email:** mtiburcio@scu.edu
+- **LinkedIn:** https://www.linkedin.com/in/michael-tiburcio/ 
+- **Email:** michaeltiburcio577@gmail.com
