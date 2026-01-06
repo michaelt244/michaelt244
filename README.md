@@ -29,10 +29,6 @@ I focus on **backend systems, applied machine learning, and scalable infrastruct
 ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 ---
-### 🏆 GitHub Highlights
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=michaelt244&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=5&title=Commits,Repositories,Stars,Followers,Experience)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ### 📫 Connect With Me
 
