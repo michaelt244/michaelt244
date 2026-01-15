@@ -1,7 +1,7 @@
 ## Hi, I’m Michael 👋
 
 I’m a **Computer Science & Engineering student at Santa Clara University** with a minor in Applied Mathematics.  
-I focus on **backend systems, applied machine learning, and scalable infrastructure**
+I enjoy working on **backend systems, applied machine learning, and scalable infrastructure**
 
 ---
 
