@@ -7,11 +7,9 @@ I enjoy working on **backend systems, applied machine learning, and scalable inf
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Top Languages
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=michaelt244&show_icons=true&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=michaelt244&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelt244&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelt244&layout=compact&theme=tokyonight&hide_border=true&hide=html,shell,dockerfile&langs_count=8&include_all_commits=true)
 
 ---
 
