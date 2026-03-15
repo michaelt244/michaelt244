@@ -4,6 +4,7 @@ I’m a **Computer Science & Engineering student at Santa Clara University** wit
 I enjoy working on **backend systems, applied machine learning, and scalable infrastructure**.
 
 ---
+
 ### 🛠 Tech Stack
 
 **Languages**
