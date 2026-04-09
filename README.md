@@ -1,41 +1,57 @@
 ## Hi, I'm Michael 👋
-
 ![Profile Views](https://komarev.com/ghpvc/?username=michaelt244&color=blue&style=flat-square)
 
-I'm a **Computer Science & Engineering student at Santa Clara University** with a minor in Applied Mathematics.  
-I enjoy working on **backend systems, applied machine learning, and scalable infrastructure**.
+I'm a **CS & Engineering sophomore at Santa Clara University** (Applied Math minor) and **CTO & Founding Engineer of [Wave](https://github.com/michaelt244)**, a production location-based social platform with 150+ DAU and 10K+ daily requests.
+
+I build **backend systems, real-time infrastructure, and applied ML pipelines** — and I love shipping things that actually work in the real world.
+
+---
+
+### 🚀 Featured Projects
+
+**Wave** — Production location-based social platform | FastAPI · PostgreSQL · Redis · React Native · Docker  
+CTO & Founding Engineer. 35+ REST endpoints, real-time WebSocket messaging, and a trained feed ranking model using logistic regression + gradient boosting.
+
+**SightLine** — Real-time vision assistant for blind users | Python · FastAPI · LLMs  
+Browser-based frame capture streamed to a FastAPI backend with swappable vision models (LLaVA / Gemini Flash) and ElevenLabs TTS. <2s hazard detection latency.
+
+**Catch** — Real-time fall detection system | AWS · YOLOv8 · Computer Vision  
+🥇 1st Place, AWS × INRIX Hackathon (38+ submissions including graduate teams). YOLOv8 pose estimation + event-driven AWS pipeline with <2s end-to-end alert latency.
 
 ---
 
 ### 📊 Top Languages
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelt244&layout=compact&theme=tokyonight&hide_border=true&hide=html,shell,dockerfile&langs_count=8&include_all_commits=true)
 
 ---
 
 ### 🛠 Tech Stack
 
-**Languages**
+**Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
-**Backend & Infrastructure**
+**Backend & Infrastructure**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**Machine Learning & Data**
+**Machine Learning & Data**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 
 ---
 
 ### 📫 Connect With Me
-- **GitHub:** https://github.com/michaelt244  
-- **LinkedIn:** https://www.linkedin.com/in/michael-tiburcio/  
+- **GitHub:** https://github.com/michaelt244
+- **LinkedIn:** https://www.linkedin.com/in/michael-tiburcio/
 - **Email:** michaeltiburcio577@gmail.com
