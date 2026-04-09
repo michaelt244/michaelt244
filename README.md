@@ -17,10 +17,6 @@ I build **backend systems, real-time infrastructure, and applied ML pipelines** 
 
 ---
 
-### 📊 GitHub Stats
-
-![michaelt244's GitHub stats](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=150%2B+DAU+on+Wave;1st+Place+AWS+%C3%97+INRIX+Hackathon;CTO+%40+Wave+%7C+IBM+Watson+Incoming)
-
 ### 🔥 Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=michaelt244&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
