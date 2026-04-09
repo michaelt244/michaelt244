@@ -19,12 +19,7 @@ I build **backend systems, real-time infrastructure, and applied ML pipelines** 
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=michaelt244&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=michaelt244&theme=tokyonight" height="160"/>
-</p>
-
----
+![michaelt244's GitHub stats](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=150%2B+DAU+on+Wave;1st+Place+AWS+%C3%97+INRIX+Hackathon;CTO+%40+Wave+%7C+IBM+Watson+Incoming)
 
 ### 🔥 Streak
 
