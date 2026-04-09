@@ -21,7 +21,7 @@ I build **backend systems, real-time infrastructure, and applied ML pipelines** 
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=michaelt244&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelt244&layout=compact&theme=tokyonight&hide_border=true&hide=html,shell,dockerfile&langs_count=8&count_private=true&cache_seconds=1800" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=michaelt244&theme=tokyonight" height="160"/>
 </p>
 
 ---
