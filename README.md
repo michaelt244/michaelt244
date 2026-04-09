@@ -1,7 +1,7 @@
 ## Hi, I'm Michael 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=michaelt244&color=blue&style=flat-square)
 
-I'm a **CS & Engineering sophomore at Santa Clara University** (Applied Math minor) and **CTO & Founding Engineer of [Wave](https://github.com/michaelt244)**, a production location-based social platform with 150+ DAU and 10K+ daily requests.
+I'm a **CS & Engineering sophomore at Santa Clara University** (Applied Math minor) and **CTO & Founding Engineer of Wave**, a production location-based social platform with 150+ DAU and 10K+ daily requests.
 
 I build **backend systems, real-time infrastructure, and applied ML pipelines** — and I love shipping things that actually work in the real world.
 
@@ -9,19 +9,26 @@ I build **backend systems, real-time infrastructure, and applied ML pipelines** 
 
 ### 🚀 Featured Projects
 
-**Wave** — Production location-based social platform | FastAPI · PostgreSQL · Redis · React Native · Docker  
-CTO & Founding Engineer. 35+ REST endpoints, real-time WebSocket messaging, and a trained feed ranking model using logistic regression + gradient boosting.
-
-**SightLine** — Real-time vision assistant for blind users | Python · FastAPI · LLMs  
-Browser-based frame capture streamed to a FastAPI backend with swappable vision models (LLaVA / Gemini Flash) and ElevenLabs TTS. <2s hazard detection latency.
-
-**Catch** — Real-time fall detection system | AWS · YOLOv8 · Computer Vision  
-🥇 1st Place, AWS × INRIX Hackathon (38+ submissions including graduate teams). YOLOv8 pose estimation + event-driven AWS pipeline with <2s end-to-end alert latency.
+| Project | Description | Stack |
+|--------|-------------|-------|
+| **Wave** | Production location-based social platform, 150+ DAU | FastAPI · PostgreSQL · Redis · React Native · Docker |
+| **SightLine** | Real-time vision assistant for blind users, <2s latency | Python · FastAPI · LLaVA · Gemini Flash · ElevenLabs |
+| **Catch** 🥇 | 1st Place AWS × INRIX Hackathon — real-time fall detection | YOLOv8 · AWS Lambda · DynamoDB · SNS · Twilio |
 
 ---
 
-### 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelt244&layout=compact&theme=tokyonight&hide_border=true&hide=html,shell,dockerfile&langs_count=8&include_all_commits=true)
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=michaelt244&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelt244&layout=compact&theme=tokyonight&hide_border=true&hide=html,shell,dockerfile&langs_count=8&include_all_commits=true&count_private=true" height="160"/>
+</p>
+
+---
+
+### 🔥 Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=michaelt244&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
@@ -51,7 +58,14 @@ Browser-based frame capture streamed to a FastAPI backend with swappable vision 
 
 ---
 
+### 🏆 Achievements
+- 🥇 1st Place — AWS × INRIX Hackathon (38+ submissions, graduate-level competition)
+- 🚀 Incoming SWE Intern — IBM Watson (wxO team)
+- 🌎 Previously — Meta, NASA Ames Research Center
+
+---
+
 ### 📫 Connect With Me
-- **GitHub:** https://github.com/michaelt244
-- **LinkedIn:** https://www.linkedin.com/in/michael-tiburcio/
-- **Email:** michaeltiburcio577@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-tiburcio/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/michaelt244)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:michaeltiburcio577@gmail.com)
