@@ -1,7 +1,9 @@
 ## Hi, I'm Michael 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=michaelt244&color=blue&style=flat-square)
 
-I'm a **CS & Engineering sophomore at Santa Clara University** (Applied Math minor) and **CTO & Founding Engineer of Wave**, a production location-based social platform with 150+ DAU and 10K+ daily requests.
+I'm a **CS & Engineering junior at Santa Clara University** (Applied Math minor) and **CTO & Founding Engineer of Wave**, a production location-based social platform with 150+ DAU and 10K+ daily requests.
+
+I'm currently a **Software Development Intern at IBM watsonx Orchestrate**, building self-diagnostic and self-healing capabilities for the wxO build pipeline.
 
 I build **backend systems, real-time infrastructure, and applied ML pipelines** — and I love shipping things that actually work in the real world.
 
@@ -12,13 +14,13 @@ I build **backend systems, real-time infrastructure, and applied ML pipelines** 
 | Project | Description | Stack |
 |--------|-------------|-------|
 | **Wave** | Production location-based social platform, 150+ DAU | FastAPI · PostgreSQL · Redis · React Native · Docker |
+| **Penguin** 🥇 | AI agent inside iMessage group chats via reverse-engineered Apple ecosystem, 5-tier LLM routing | Python · FastAPI · AdalFlow · BlueBubbles |
 | **SightLine** | Real-time vision assistant for blind users, <2s latency | Python · FastAPI · LLaVA · Gemini Flash · ElevenLabs |
 | **Catch** 🥇 | 1st Place AWS × INRIX Hackathon — real-time fall detection | YOLOv8 · AWS Lambda · DynamoDB · SNS · Twilio |
 
 ---
 
 ### 🔥 Streak
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=michaelt244&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
@@ -42,17 +44,26 @@ I build **backend systems, real-time infrastructure, and applied ML pipelines** 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**Machine Learning & Data**  
+**AI / Machine Learning**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![LangChain](https://img.shields.io/badge/LLMs%2FTransformers-412991?style=flat-square&logo=openai&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square)
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ---
 
 ### 🏆 Achievements
 - 🥇 1st Place — AWS × INRIX Hackathon (38+ submissions, graduate-level competition)
-- 🚀 Incoming SWE Intern — IBM Watson (wxO team)
-- 🌎 Previously — Meta, NASA Ames Research Center
+- 🥇 1st Place — SCU ACM × AI Collaborate Hack-a-Stack (Penguin)
+- 💼 SWE Intern — IBM watsonx Orchestrate (Summer 2026)
+- 🎓 MLT Career Preparation Fellow — Management Leadership for Tomorrow
+- 🌎 Previously — Meta, NASA Ames Research Center, Hispanic Foundation of Silicon Valley
 
 ---
 
