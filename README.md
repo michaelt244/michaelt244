@@ -62,7 +62,6 @@ I build **backend systems, real-time infrastructure, and applied ML pipelines** 
 - 🥇 1st Place — AWS × INRIX Hackathon (38+ submissions, graduate-level competition)
 - 🥇 1st Place — SCU ACM × AI Collaborate Hack-a-Stack (Penguin)
 - 💼 SWE Intern — IBM watsonx Orchestrate (Summer 2026)
-- 🎓 MLT Career Preparation Fellow — Management Leadership for Tomorrow
 - 🌎 Previously — Meta, NASA Ames Research Center, Hispanic Foundation of Silicon Valley
 
 ---
