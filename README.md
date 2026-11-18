@@ -1,11 +1,13 @@
 ## Hi, I'm Michael 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=michaelt244&color=blue&style=flat-square)
 
-I'm a **CS & Engineering junior at Santa Clara University** (Applied Math minor) and **CTO & Founding Engineer of Wave**, a production location-based social platform with 150+ DAU and 10K+ daily requests.
+I'm a **CS & Engineering junior at Santa Clara University** wth minior in Math and currently a **Software Engineering Intern at Zoox**, working on **HD maps and fleet operations**. I build real-time map update and validation pipelines, simulation-based stress tests, and observability tools to catch map anomalies and verify new map releases.
 
-I'm currently a **Software Development Intern at IBM watsonx Orchestrate**, building self-diagnostic and self-healing capabilities for the wxO build pipeline.
+Previously, I worked/Interned at **IBM**, **Wave** (a small startup), and **Meta**, and more.
 
-I build **backend systems, real-time infrastructure, and applied ML pipelines** — and I love shipping things that actually work in the real world.
+I enjoy working **backend systems, real-time infrastructure, and applied ML pipelines**, and I love experimenting with **vision models**. Above all, I care about shipping things that actually work in the real world, help others, and make a meaningful difference in people's lives.
+
+💬 **Always down to chat** reach out if you want to talk about **simulation, vision models**, or building impactful/cool tech!
 
 ---
 
@@ -13,10 +15,11 @@ I build **backend systems, real-time infrastructure, and applied ML pipelines** 
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| **Wave** | Production location-based social platform, 150+ DAU | FastAPI · PostgreSQL · Redis · React Native · Docker |
-| **Penguin** 🥇 | AI agent inside iMessage group chats via reverse-engineered Apple ecosystem, 5-tier LLM routing | Python · FastAPI · AdalFlow · BlueBubbles |
-| **SightLine** | Real-time vision assistant for blind users, <2s latency | Python · FastAPI · LLaVA · Gemini Flash · ElevenLabs |
-| **Catch** 🥇 | 1st Place AWS × INRIX Hackathon — real-time fall detection | YOLOv8 · AWS Lambda · DynamoDB · SNS · Twilio |
+| **Wave** | A location-based social app built from the ground up, serving 150+ daily active users and 10K+ daily requests. | FastAPI · PostgreSQL · Redis · React Native · Docker |
+| **Penguin** 🥇 | An AI assistant inside iMessage group chats that routes questions across multiple LLMs and triggers workflows like Calendar and Gmail. | Python · Cloudflare · MCPS · AI Agents |
+| **SightLine** | A real-time vision assistant for smart glasses that describes surroundings and warns blind users of hazards in under 2 seconds. | Python · FastAPI · LLaVA · Gemini Flash · ElevenLabs |
+| **Catch** 🥇 | A real-time fall detection system that tracks body movement to catch falls and automatically dispatches emergency alerts. | YOLOv8 · TensorRT · AWS · Gemini Flash · Twilio |
+| **IBM Bobathon** 🥉 | A self-organizing team knowledge base and VS Code extension that automatically surfaces past engineering answers (3rd/158 teams). | Python · FastAPI · TypeScript · VS Code |
 
 ---
 
@@ -29,9 +32,10 @@ I build **backend systems, real-time infrastructure, and applied ML pipelines** 
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
@@ -46,6 +50,7 @@ I build **backend systems, real-time infrastructure, and applied ML pipelines** 
 
 **AI / Machine Learning**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LLMs%2FTransformers-412991?style=flat-square&logo=openai&logoColor=white)
@@ -61,8 +66,8 @@ I build **backend systems, real-time infrastructure, and applied ML pipelines** 
 ### 🏆 Achievements
 - 🥇 1st Place — AWS × INRIX Hackathon (38+ submissions, graduate-level competition)
 - 🥇 1st Place — SCU ACM × AI Collaborate Hack-a-Stack (Penguin)
-- 💼 SWE Intern — IBM watsonx Orchestrate (Summer 2026)
-- 🌎 Previously — Meta, NASA Ames Research Center, Hispanic Foundation of Silicon Valley
+- 🥉 3rd / 158 Teams — IBM Bobathon
+- 🌎 Previously — IBM, Meta, Wave, NASA Ames Research Center, Hispanic Foundation of Silicon Valley
 
 ---
 
